@@ -45,3 +45,8 @@ body {
     text-decoration: none;
     color: #f9faf8;
 }
+
+.promo-section img {
+    width: 550px;
+    height: 250px;
+}
