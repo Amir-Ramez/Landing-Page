@@ -46,6 +46,14 @@ body {
     color: #f9faf8;
 }
 
+.promo-section {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 80px;
+}
+
 .promo-section img {
     width: 550px;
     height: 250px;
