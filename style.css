@@ -20,3 +20,11 @@ body {
     color: #f9faf8;
     padding-top: 18px;
 }
+
+.header .nav-bar {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 80px;
+}
