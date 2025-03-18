@@ -100,3 +100,12 @@ body {
     font-weight: 900;
     color: #1f2937;
 }
+
+.info .items {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+    gap: 48px;
+}
