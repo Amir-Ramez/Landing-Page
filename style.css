@@ -147,3 +147,33 @@ body {
     text-align: right;
     font-style: normal;
 }
+
+.sign-up {
+    padding: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
+}
+
+.sign-up .container {
+    padding: 48px;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882f6;
+    border-radius: 8px;
+}
+
+.sign-up .container .text h3 {
+    font-size: 28px;
+}
+
+.sign-up .container button {
+    padding: 4px 22px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: 700;
+    border: 3px solid #f9faf8;
+    border-radius: 8px;
+}
