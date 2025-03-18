@@ -67,11 +67,20 @@ body {
 
 .main-message h1 {
     font-size: 48px;
-    font-weight: 900px;
+    font-weight: 900;
     line-height: 1.2;
 }
 
 .main-message .text {
     font-size: 18px;
     color: #f9faf8;
+}
+
+.main-message button {
+    padding: 4px 20px;
+    margin-top: 8px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: 700;
+    border-radius: 8px;
 }
